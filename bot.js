@@ -33,27 +33,27 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['263780699988','254114018035'] //owner number +27634090203
+global.pemilik = ['263780699988'] //owner number +27634090203
+global.premium = ['263780699988'] //premium number +27634090203
+global.pengguna = 'Baymax' //username
+global.footer = 'BAYMAX BOT'
+global.botnma = 'BAYMAX BOT' //bot name
+global.ownernma = 'Mr Juice' //owner name
+global.packname = 'Baymax' //sticker package name
+global.author = 'By Mr juice' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
-global.sp = '🔵' //sp
+global.sp = '🦄' //sp
 global.mess = {
-    success: 'Takaenda Done!',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
-    group: '*Feature is only for groups!*',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    success: 'Successfully Done!',
+    admin: '*This command is meant for group admin only!*',
+    botAdmin: '*Make Baymax bot admin first!*',
+    owner: '*Owner Baymax Only*',
+    group: '*Command can only be used in groups!*',
+    private: 'Meant For Private Chat!',
+    bot: 'This feature is only for the bot number',
+    wait: '*Well, wait a moment baymax bot is proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
 }
 global.limitawal = {
